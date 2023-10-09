@@ -67,7 +67,7 @@ namespace Lol.Main.Local.ViewModels
             {
                 region.Add(menuContent);
             }
-            region.Activate(menuContent);
+            region.Activate(menuContent);                                                                                        
         }
 
         private void _menuService_BackgroundChanged(object sender, BackgroundChangedEventArgs e)
